@@ -1,16 +1,16 @@
-# 免费V2Ray分享，每天更新
+# 免费V2Ray节点分享，每天更新
 
 V2Ray账号，更新时间：2020-12-03
 
 所有账号均来自互联网，非盈利目的，仅供大家交流学习使用，出现一切问题本站作者概不负责。
 
-本站不提供任何收费服务，不推荐任何收费机场，谢谢大家的支持。
+本站不提供任何收费服务，谢谢大家的支持。
 
-订阅链接：
+机场链接：
 
-- `https://iwxf.netlify.app`
+- `https:qiuyinpw.github.io`
 
-账号的使用方法您可以参考：[v2ray各平台图文使用教程](https://github.com/iwxf/v2ray-tutorial/blob/master/README.md)
+账号的使用方法您可以参考：[v2ray各平台图文使用教程](https://v2ray.tawk.help/article/download)
 
 ```
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIltpd3hmXWxpdHRsZXN1ci5tbCIsDQogICJhZGQiOiAibGl0dGxlc3VyLm1sIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImIyZTVmMTMyLTJkNjUtMTFlYi05OWQ3LTU2MDAwMzEyYWM3YiIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLzFvNGg1UWtkLyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
